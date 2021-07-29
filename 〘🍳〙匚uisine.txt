@@ -1,0 +1,531 @@
+==============================================================
+Guild: 〘⚔〙Sᥕord Art Oᥒᥣιᥒᥱ〘RP〙
+Channel: 🎮 |▪Rôle Play / •〘🍳〙匚uisine
+==============================================================
+
+[12-Mar-21 01:36 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+```
+                                       🍽️🍳 Compétence de cuisine :🍽️🍳
+```
+**► Comment obtenir cette compétence ? ◄** 
+
+• Il vous suffit de vous rendre dans une taverne afin de parler à un cuisinier/cuisinière disponible pour vous enseigner la compétence
+• Vous pouvez aussi vous rendre auprès d'un joueur/joueuse ayant la compétence et de devenir son élève en cuisine. (Il faut un accord mutuel) 
+
+**► Comment pratiquer cette compétence ? ◄** 
+
+• Il vous suffira tout simplement de vous rendre dans une taverne, dans une zone avec un fourneau (Boutique non comprise) ou bien 
+   d'utiliser l'item "Feu de Camp" afin de créer un petit feu et de pouvoir faire vos plats en dehors des villes, pratique pour de longue 
+   excursions ! *L'item "Feu de Camp" peut être acheté auprès d'un vendeur ou d'un pnj au prix de 2500 cols*
+
+**► Comment ça se passe pour les niveaux de la compétence ? ◄**
+
+• Les niveaux de compétences sont les mêmes que ceux qui sont demandés pour vos personnage, c'est-à-dire : 
+   - Level 1 : 0/100
+   - Level 2 : 0/200
+   Et ainsi de suite, il faut vous référer au salon #•〘🆙〙ㄥevels 
+
+• Les niveaux de compétences se gagne en faisant des quêtes ou tout simplement en pratiquant, le nombre d'exp obtenues est __différent__ 
+   pour chaque palier !
+
+
+[12-Mar-21 01:37 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+**► Les quêtes ! ◄**
+
+***__Les quêtes ne peuvent être obtenue qu'en présence d'un cuisinier/cuisinière dans une taverne !__***
+
+• Les quêtes de compétences sont là pour vous aider à monter votre compétence ! Il ne faut pas en abuser évidemment. 
+
+• Les quêtes d'apprentissage se feront a chaque palier après l'apprentissage, c'est-à-dire :
+  - Vous devrez effectuer une quête pour débloquer les recettes d'un palier, il vous suffira seulement d'avoir le level requis pour 
+     confectionner le plat.
+  - Pour chaque nouveau palier de franchit, il y aura une quête à la taverne précédente, celle-ci donnera un item de quête pour pouvoir rendre 
+     la quête au palier suivant et pouvoir apprendre la suite des recettes. (Il faut déjà avoir le niveau maximum dans le palier pour pouvoir 
+     obtenir cette quête)
+
+                      ❗ Les actions doivent être logique, réfléchit et un minimum développée. ❗
+
+```
+                                 📜 Listes des différentes recettes possibles: 📜
+```
+
+
+[12-Mar-21 01:39 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+⛩️ PALIER 1 :⛩️
+
+Chaque quête en donnera +50 exp de compétence __MAX__ (dispo a partir du level 3 de cuisine)
+
+◇─◇──◇────◇ Condiment◇─────◇──◇─◇
+
+彡**☆__Huile de monstre :__☆**ミ (Level 1 de cuisine requis) +10 exp
+
+`• 4 Graisses de castor
+• 2 Herbes aromatique médiocre`
+
+◇─◇──◇────◇ Plat basique ◇─────◇──◇─◇
+
+彡**☆__Rôti de Sangliers :__☆**ミ (Level 1 de cuisine requis) +10 exp
+
+`• 2 Viandes de sanglier
+• 1 Herbes aromatique médiocre`
+
+彡**☆__Steak de Loup juteux :__☆**ミ (Level 3 de cuisine requis) +10 exp
+
+`• 3 Viandes de loup
+• 5 Herbes aromatique médiocre`
+
+彡**☆__Saucisse de Castor :__☆**ミ (Level 5 de cuisine requis) +20 exp
+
+`• 2 Viandes de castor`
+
+彡**☆__Patate médiocre confite :__☆**ミ (Level 5 de cuisine requis) +20 exp
+
+`• 10 Légumes médiocre
+• 5 Herbes aromatique médiocre
+• 5 Huiles de monstre`
+
+彡**☆__Maquereau frit au légumes :__☆**ミ (Level 6 de cuisine requis) +25 exp
+
+`• 3 Maquereau
+• 2 Légumes médiocre
+• 4 Huiles de monstres`
+
+彡**☆__Tourte fondante d'araignée  :__☆**ミ (Level 7 de cuisine requis) +30 exp
+
+`• 7 Yeux d'araignée
+• 5 Pattes d'araignée`
+
+彡**☆__Côtelette de Gobelin :__☆**ミ (Level 9 de cuisine requis) +40 exp
+
+`• 3 Viandes de gobelin
+• 2 Légumes médiocre`
+
+彡**☆__Brochette de Kobold :__☆**ミ (Level 10 de cuisine requis) +50exp
+
+`• 3 Viandes de Kobold
+• 3 Oreilles de Kobold
+• 4 Légumes médiocre` 
+
+彡**☆__Potage de poisson :__☆**ミ (Level 10 de cuisine requis) +50 exp
+
+`• 4 Maquereau 
+• 4 Bar
+• 4 Thon
+• 4 Colin
+• 6 Herbes aromatiques`
+
+
+[12-Mar-21 01:40 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+◇─◇──◇────◇ Plat à effets ◇─────◇──◇─◇
+
+
+彡**☆__Soupe de Sangliers :__☆**ミ (Level 1 de cuisine requis) +10 exp
+
+`• 3 viandes de sanglier
+• 2 Yeux
+• 3 Défenses`
+
+*Un boost de défense pendant 1 minute de +20%*
+
+彡**☆__Soupe de Loup :__☆**ミ (Level 2 de cuisine requis) +10 exp
+
+`• 2 Viandes de loup
+• 3 yeux`
+
+*Un boost de vitesse et esquive pendant 1 minute de +10 %*
+
+彡**☆__Ragout de castors :__☆**ミ (Level 4 de cuisine requis) +20 exp
+
+`• 3 graisses de castors
+• 3 viandes
+• 2 yeux`
+
+*Un boost de dégâts pendant 2 minutes de +10 %*
+
+彡**☆__Soupe hostile :__☆**ミ (Level 8 de cuisine requis)+40 exp
+
+`• 1 venin d’araignée
+• 2 yeux d’araignée
+• 1 viande de gobelin
+• 6 oreilles de Kobold`
+
+*Un boost de tout les stats pendant 3 minutes de +20 % et un goût ressemblent à de la vodka*
+
+★゜・。。・゜゜・。。・゜--ღஐƸ̵̡Ӝ̵̨̄Ʒஐღ- ☆ -ღஐƸ̵̡Ӝ̵̨̄Ʒஐღ-- ゜・。。・゜゜・。。・゜★
+
+
+[12-Mar-21 01:40 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+⛩️ PALIER 2 :⛩️
+
+Chaque quête en donnera +100 exp de compétence __MAX__
+
+◇─◇──◇────◇ Condiment ◇─────◇──◇─◇
+
+彡**☆__Épice médiocre :__☆**ミ(Level 10 de cuisine) +50 exp
+
+`• 4 Herbes aromatique médiocre`
+
+◇─◇──◇────◇ Plat basique ◇─────◇──◇─◇
+
+彡**☆__Petit festin de Taureaux :__☆**ミ(Level 10 de cuisine) +50 exp
+
+`• 5 viandes de taureau noir
+• 5 viandes de taureau rouge
+• 2 Entrailles de taureau noir
+• 2 Yeux de taureau rouge
+• 6 Épice médiocre`
+
+彡**☆__Suprême de guêpe :__☆**ミ(Level 11 de cuisine) +55 exp
+
+`• 2 Viandes de guêpe
+• 2 Entrailles de guêpe
+• 2 Dard de guêpe
+• 2 Crochet de guêpe
+`
+彡**☆__Langue de Naga frit :__☆**ミ(Level 13 de cuisine) +65 exp
+
+`• 2 Langues de Naga
+• 3 Huiles de monstre`
+
+彡**☆__Potage enrichissant de la forêt :__☆**ミ (Level 14 de cuisine) +70 exp
+
+`• 4 Liane d'esprit de la forêt
+• 2 Viandes de l'esprit de la forêt
+• 4 Légumes médiocre
+• 2 Épices médiocre`
+
+彡**☆__Ailes grillées :__☆**ミ (Level 16 de cuisine) +80 exp
+
+`• 4 Ailes de chauves-souris
+• 2 Épices médiocre`
+
+彡**☆__Tartare chimerique :__☆**ミ (Level 18 de cuisine) +90 exp
+
+`• 5 Viandes de chimère
+• 4 Épices médiocre`
+
+彡**☆__Kebab de minotaure :__☆**ミ (Level 20 de cuisine) +100exp
+
+`• 8 Viandes de minotaure
+• 2 Légumes médiocre
+• 1 Épice médiocre `
+
+
+[12-Mar-21 01:40 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+◇─◇──◇────◇ Plat à effets ◇─────◇──◇─◇
+
+彡**☆__Ragout de Taureaux noir :__☆**ミ (Level 12 de cuisine) +60 exp
+
+`• 3 Entrailles de T.N
+• 2 Viandes de T.N
+• 2 Yeux de T.N
+• 1 Herbe aromatique médiocre`
+
+*Une soupe qui va activer un effet qui ressemble à une montée de testostérone ou d’adrénaline et donc +100 % d’attaque*
+
+彡**☆__Soupe double couleur :__☆**ミ (Level 15 de cuisine) +75 exp
+
+`• 3 Entrailles de T.N
+• 2 Viandes de T.N
+• 2 Yeux de taureau noir
+• 1 Herbe aromatique médiocre
+• 3 Entrailles de T.R
+• 2 Viandes de T.R
+• 2 Yeux de taureau rouge
+• 4 Baies sauvages`
+
+*Une soupe qui vas te donner un boost de vitesse de +100 % qui est limite incontrôlable et a la fin une petite nausée*
+
+彡**☆__Sushis de poisson :__☆**ミ(Level 17 de cuisine) +85 exp
+
+`• 2 Viandes de T.N
+• 5 Mues de serpent
+• 5 Poisons de guêpe
+• 4 Herbes aromatique médiocre`
+
+*Un effet tellement fort que ça donne une aura de poison autours du joueur qui met un effet de poison sur les mobs qui le touchent*
+
+彡**☆__Le ragout mythique :__☆**ミ (Level 19 de cuisine) +95 exp
+
+`• 4 yeux de guépard
+• 4 Viandes de chimères
+• 7 Viandes de minotaures`
+
+*Un effet qui provoque tout les mobs dans la zone et baisse leur attaque de 50 % ainsi que leur hp de 30 %*
+
+★゜・。。・゜゜・。。・゜--ღஐƸ̵̡Ӝ̵̨̄Ʒஐღ- ☆ -ღஐƸ̵̡Ӝ̵̨̄Ʒஐღ-- ゜・。。・゜゜・。。・゜★
+
+
+[12-Mar-21 01:41 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+⛩️ PALIER 3 :⛩️
+
+Chaque quête en donnera +200 exp de compétence __MAX__
+
+◇─◇──◇────◇ Condiment ◇─────◇──◇─◇
+
+彡**☆__Sauce peu satisfaisante :__☆**ミ (Level 20 de cuisine) +100 exp
+
+`• 3 Huiles de monstre
+• 2 Herbes aromatique médiocre
+• 2 Herbes fine`
+
+*Cette sauce peut être utilisée comme accompagnement d'un plat ou dans la confection du plat directement.*
+
+◇─◇──◇────◇ Plat basique ◇─────◇──◇─◇
+
+彡**☆__Bâtonnets de tortankus :__☆**ミ (Level 20 de cuisine) +100 exp
+
+`• 2 Viandes de tortankus
+• 2 Pattes de tortankus
+• 2 Entrailles de tortankus
+• 1 Huile de monstre
+• 1 Épice médiocre`
+
+彡**☆__Délice de gorillus :__☆**ミ(Level 22 de cuisine) +120 exp
+
+`• 4 Viandes de gorillus
+• 2 Fibres musculaire de gorillus
+• 1 Sauce peu satisfaisante
+• 1 Épice médiocre`
+
+彡**☆__Serpentus sauté :__☆**ミ(Level 23 de cuisine) +130 exp
+
+`• 2 Viandes de serpentus
+• 1 Huile de monstre`
+
+彡**☆__Wings de tigrus :__☆**ミ(Level 24 de cuisine) +140 exp
+
+`• 6 Viandes de tigrus
+• 2 Huile de monstre
+• 2 Épices médiocre`
+
+◇─◇──◇────◇ Plat à effets ◇─────◇──◇─◇
+
+彡**☆__Barbuc Spécial Palier 3 :__☆**ミ(Level 25 de cuisine) +150 exp
+
+`• 3 Viandes de tortankus
+• 3 viandes de gorillus
+• 3 Viandes de serpentus
+• 3 Viandes de tigrus
+• 4 Oreilles d’elf maléfique
+• 3 Têtes d’elfs infestés`
+
+*Met un effet de feu autours de vous se qui brûle tout les mobs et les joueurs (pour les crystaux rouges) pendant 1 minute*
+
+★゜・。。・゜゜・。。・゜--ღஐƸ̵̡Ӝ̵̨̄Ʒஐღ- ☆ -ღஐƸ̵̡Ӝ̵̨̄Ʒஐღ-- ゜・。。・゜゜・。。・゜★
+
+
+[12-Mar-21 01:42 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+⛩️ PALIER 4 :⛩️
+
+Chaque quête en donnera +400 exp de compétence __MAX__
+
+◇─◇──◇────◇ Condiment ◇─────◇──◇─◇
+
+彡**☆__Sel :__☆**ミ (Level 25 de cuisine) +150 exp
+
+`• 3 Petites fioles d'eau salée`
+
+◇─◇──◇────◇ Plat basique ◇─────◇──◇─◇
+
+彡**☆__Sushi de sirène  :__☆**ミ(Level 25 de cuisine) +150 exp
+
+`• 4 Chairs de sirène
+• 2 Branchie de sirène
+• 4 Légume médiocre
+• 5 Herbes fines`
+
+彡**☆__Tentacule marinée :__☆**ミ(Level 26 de cuisine) +160 exp
+
+`• 4 Tentacules de poulpazaure
+• 2 Huiles de monstre
+• 3 Sels
+• 1 Épice médiocre`
+
+彡**☆__Brochette de croqu'eau :__☆**ミ(Level 27 de cuisine) +170 exp
+
+`• 3 Chairs de croqu'eau
+• 2 Entrailles de croqu'eau
+• 4 Légumes médiocre
+• 3 Épices médiocre `
+
+彡**☆__Raviolis d'ours à corne :__☆**ミ(Level 28 de cuisine) +180 exp
+
+`• 4 Viandes d'ours a corne
+• 6 Sauces peu satisfaisante
+• 5 Épices médiocre
+• 2 Sels`
+
+彡**☆__Banquet de fruit de mer  :__☆**ミ(Level 30 de cuisine) +200 exp
+
+`• 6 Chairs de sirène
+• 6 Cervelet de troll-fish
+• 6 Coeur de poulpazaure
+• 6 Entrailles déchiqueter de d.requin
+• 6 Chairs de croqu'eau
+• 6 Viandes de krabaking
+• 6 Queues de lagiacrus`
+
+◇─◇──◇────◇ Plat à effets ◇─────◇──◇─◇
+
+彡**☆__Soupe de poissons sauvages :__☆**ミ(Level 29 de cuisine) +190 exp
+
+`• 7 chairs de sirène
+• 3 Langues de troll-fish
+• 8 tentacules de Poulpazure
+• 2 yeux décomposés de D.Requin
+• 2 chairs de Croqu’eau
+• 3 piques de Krabaking
+• 2 Viandes d’ours à corne
+• 1 Viande de lagiacrus`
+
+Te fais téléporter à chaque fois qu’un mob t’attaque pendant 3 minutes, et te permet de respirer sous l’eau.
+
+★゜・。。・゜゜・。。・゜--ღஐƸ̵̡Ӝ̵̨̄Ʒஐღ- ☆ -ღஐƸ̵̡Ӝ̵̨̄Ʒஐღ-- ゜・。。・゜゜・。。・゜★
+
+
+[12-Mar-21 01:44 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+⛩️ PALIER 5 :⛩️
+Chaque quête en donnera +600 exp de compétence __MAX__
+
+◇─◇──◇────◇ Condiment ◇─────◇──◇─◇
+
+彡**☆__Eau minérale :__☆**ミ(Level 30 de cuisine) +200 exp
+
+`• 5 petites portions d'eau minérale`
+
+◇─◇──◇────◇ Plat basique ◇─────◇──◇─◇
+
+彡**☆__Jambon de tormagma :__☆**ミ(Level 30 de cuisine) +200 exp
+
+`• 2 Viandes de tormagma
+• 2 Épices médiocres
+• 3 Sels`
+
+彡**☆__Boudin de tormagma :__☆**ミ(Level 31 de cuisine) +210 exp
+
+`• 8 Viandes de tormagma
+• 2 Légumes médiocre
+• 2 Épices médiocre`
+
+彡**☆__Yeux de terkume grillés :__☆**ミ(Level 32 de cuisine) +220 exp
+
+`• 4 Yeux de terkume
+• 3 Huiles de monstre
+• 2 Eaux minérales
+• 2 Sauces peu satisfaisante`
+
+彡**☆__Doigts de wolgambo croustillant :__☆**ミ(Level 33 de cuisine) +230 exp
+
+`• 8 Doigts de wolgambo
+• 5 Huiles de monstre
+• 4 Épices médiocre
+• 2 Sauces peu satisfaisante`
+
+彡**☆__Great ragoût :__☆**ミ(Level 34 de cuisine) +240 exp
+
+`• 3 Viandes de great gobelin
+• 3 Muscles de great gobelin
+• 3 Têtes de great gobelin
+• 5 Légumes médiocre
+• 2 Épices médiocre
+• 4 Sels
+• 8 Sauces peu satisfaisante
+• 4 Eaux minérales` 
+
+◇─◇──◇────◇ Plat à effets ◇─────◇──◇─◇
+
+彡**☆__PLAVA des esprits :__☆**ミ(Level 35 de cuisine) +250 exp
+
+`• 3 Pics de Tormagma
+• 2 Têtes de Sinsitros
+• 6 Queues de Terkume
+• 2 Doigts de Wolgambo
+• 8 Pierres de feu de Cyclogma
+• 2 Têtes de Great gobelin`
+
+*Donne une force musculaire qui te permet de soulever n’importe quel mob pendant 10 minutes et ton personnage commence à voir un peu rouge (Sauf boss)*
+
+★゜・。。・゜゜・。。・゜--ღஐƸ̵̡Ӝ̵̨̄Ʒஐღ- ☆ -ღஐƸ̵̡Ӝ̵̨̄Ʒஐღ-- ゜・。。・゜゜・。。・゜★
+
+
+[12-Mar-21 01:45 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+⛩️ PALIER 6 :⛩️
+Chaque quête en donnera +800 exp de compétence __MAX__
+
+◇─◇──◇────◇ Condiment ◇─────◇──◇─◇
+
+彡**☆__Sauce ordinaire :__☆**ミ (Level 35 de cuisine) +250 exp
+
+`• 5 Huiles de monstre
+• 2 Herbes aromatique inférieure
+• 3 Herbes fine`
+
+*Cette sauce peut être utilisée comme accompagnement d'un plat ou dans la confection du plat directement.*
+
+彡**☆__Épice inférieure :__☆**ミ(Level 37 de cuisine) +270 exp
+
+`• 6 Herbes aromatique inférieure`
+
+◇─◇──◇────◇ Plat basique ◇─────◇──◇─◇
+
+彡**☆__Jarret de draconox :__☆**ミ (Level 36 de cuisine) +260 exp
+
+`• 6 Viandes de draconox
+• 2 Huiles de monstre
+• 4 Sels`
+
+彡**☆__Tendrons de féeboux :__☆**ミ(Level 38 de cuisine) +280 exp
+
+`• 8 Ailes de féeboux
+• 4 Épices inférieure
+• 2 Sauces ordinaire`
+
+彡**☆__Filets tendrement assaisonnés :__☆**ミ(Level 39 de cuisine) +290 exp
+
+`• 12 Viandes de cérimagic
+• 8 Épices inférieure
+• 4 Légumes inférieur`
+
+彡**☆__Steak savoureux de pégafée :__☆**ミ (Level  41 de cuisine) +310 exp
+
+`• 4 Viandes de pégafée
+• 6 Épices inférieure
+• 2 Sauces ordinaire`
+
+彡**☆__Tourtoscorféepio :__☆**ミ (Level 42 de cuisine) +320 exp
+
+`• 4 Viandes de scorféepio
+• 2 Pattes de scorféepio
+• 6 Légumes inférieur`
+
+彡**☆__Frappé féenérique  :__☆**ミ (Level 43 de cuisine) +330 exp
+
+`• 6 Viandes de kitsuféené
+• 4 Légumes inférieur
+• 5 Sauces ordinaire`
+
+◇─◇──◇────◇ Plat à effets ◇─────◇──◇─◇
+
+彡**☆__Ragoût fantastique :__☆**ミ(Level 45 de cuisine) +350 exp
+
+`• 3 Ailes de draconox
+• 3 ailes de féeboux
+• 3 viandes de cérimagic
+• 7 Viandes de kitsuféené`
+
+*Te fais un effet qui permet de lancer un alteration de statut sur 2 mobs qui fait baisser leur Hp de 30% (non valable sur boss ou monstre de donjon)*
+
+★゜・。。・゜゜・。。・゜--ღஐƸ̵̡Ӝ̵̨̄Ʒஐღ- ☆ -ღஐƸ̵̡Ӝ̵̨̄Ʒஐღ-- ゜・。。・゜゜・。。・゜★
+
+{Attachments}
+https://cdn.discordapp.com/attachments/816126519373856768/819732919748788234/tumblr_mjc5o6gwQA1qem56ko1_500-1.gif
+
+
+[12-Mar-21 01:46 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+Merci a @Wolfie ^^
+
+
+==============================================================
+Exported 11 message(s)
+==============================================================

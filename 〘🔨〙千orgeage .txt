@@ -1,0 +1,214 @@
+==============================================================
+Guild: 〘⚔〙Sᥕord Art Oᥒᥣιᥒᥱ〘RP〙
+Channel: 🎮 |▪Rôle Play / •〘🔨〙千orgeage
+==============================================================
+
+[21-Nov-20 02:56 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+```
+⚒️ Tableau de création d'objets : ⚒️
+```
+❗Chaque créations doivent être faite par la classe vendeur et d'une forge pour pouvoir forger❗ 
+
+**◇─◇──◇────◇ Armures ◇─────◇──◇─◇**
+
+୨**__✷ Basique : ✷__**୧ *(Level 1 de forgeron) +5 exp*
+
+`• 10 Bronzes
+• 10 Cuivres`
+
+୨**__✷ Peu commune : ✷__**୧ *(Level 3 de forgeron) +10 exp*
+
+`• 15 Cuivres
+• 25 Bronzes
+• 5 Argents`
+
+୨**__✷ Antique : ✷__**୧ *(Level 5 de forgeron) +15 exp*
+
+`• 40 Bronzes
+• 30 Argents`
+
+୨**__✷ Rare : ✷__**୧ *(Level 7 de forgeron) +20 exp*
+
+`• 50 argents
+• 40 Or`
+
+୨**__✷ Très rare : ✷__**୧ *(Level 10 de forgeron) +25 exp*
+ 
+`• 100 Argents
+• 100 Or
+• 10 Miliciums`
+
+୨**__✷ Ambre : ✷__**୧ *(Level 15 de forgeron) +30 exp*
+
+`• 250 Argents
+• 500 Or 
+• 50 Miliciums`
+ 
+୨**__✷ Exotique : ✷__**୧*(Level 25 de forgeron) +40 exp*
+
+`• 150 Carapace de Tortankus 
+• 100 Armure d'elf Impure
+• 100 Miliciums`
+
+୨**__✷ Épique : ✷__**୧ *(Level 50 de forgeron) +50 exp*
+
+`• 500 Miliciums
+• 500 Pique de krabaking `
+
+୨**__✷ Événementiel : ✷__**୧ *(Level 75 de forgeron) +75 exp*
+ 
+`• Incraftable sauf rare cas`
+
+୨**__✷ Adamantine : ✷__**୧ *(Level 100 de forgeron) +100 exp*
+
+`• Données Inconnu`
+
+୨**__✷ Légendaire : ✷__**୧ 
+
+`• Incraftable`
+
+୨**__✷ Mythique : ✷__**୧
+
+`• Incraftable` 
+
+୨**__✷ Unique : ✷__**୧ 
+
+`• Incraftable`
+
+୨**__✷ Équipement personnalisé : ✷__**୧
+ 
+`• Mp Wodam`
+
+* 　.     　﹢　˖    　✦      ¸ .　﹢　 ° 　¸.    ° ˖ ･ ·̩　　 ｡　☆　　　ﾟ ＊  ¸ .　    ✦˖　      ° :   ﹢ 　   ˖ . •　 .　﹢˖✦
+
+
+[09-Feb-21 02:19 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+**◇─◇──◇────◇ Armes ◇─────◇──◇─◇**
+
+୨**__✷ Basique : ✷__**୧ *(Level 1 de forgeron) +5 exp*
+
+`• 30 Bronzes
+• 30 Cuivres`
+ 
+୨**__✷ Peu commune : ✷__**୧ *(Level 3 de forgeron) +10 exp*
+
+`• 45 Cuivres
+• 75 Bronzes
+• 15 Argents `
+
+୨**__✷ Antique : ✷__**୧ *(Level 5 de forgeron) +15 exp*
+
+`• 120 Bronzes
+• 90 Argents`
+
+୨**__✷ Rare : ✷__**୧ *(Level 7 de forgeron) +20 exp*
+
+`• 150 Argents
+• 120 Or`
+
+୨**__✷ Très rare : ✷__**୧ *(Level 10 de forgeron) +25 exp*
+ 
+
+`• 300 Argents
+• 300 Or
+• 30 Miliciums`
+
+୨**__✷ Ambre : ✷__**୧ *(Level 15 de forgeron) +30 exp*
+
+`• 750 Argents
+• 1500 Or
+• 150 Miliciums`
+ 
+୨**__✷ Exotique : ✷__**୧ *(Level 25 de forgeron) +40 exp*
+
+`• 450 Carapaces de Tortankus
+• 300 Armures d'Elfes Impures
+• 300 Miliciums`
+
+୨**__✷ Épique : ✷__**୧ *(Level 50 de forgeron) +50 exp*
+
+`• 1500 Miliciums
+• 1500 Piques de krabaking`
+
+୨**__✷ Événementiel : ✷__**୧ *(level 75 de forgeron) +75 exp*
+
+`• Incraftable sauf rare cas`
+
+୨**__✷ Adamantine : ✷__**୧ *(Level 100 de forgeron) +100 exp*
+
+`• Données Inconnus`
+
+୨**__✷ Légendaire : ✷__**୧ 
+
+`• Incraftable `
+
+୨**__✷ Mythique : ✷__**୧
+
+`• Incraftable`
+
+୨**__✷ Unique : ✷__**୧
+
+`• Incraftable`
+
+୨**__✷ Équipements personnalisé : ✷__**୧
+
+`•(Mp Wodam)`
+
+୨**__✷ Tout autres objets se crée par logique : ✷__**୧
+
+`• Les livres avec de la peau par exemple…`
+
+* 　.     　﹢　˖    　✦      ¸ .　﹢　 ° 　¸.    ° ˖ ･ ·̩　　 ｡　☆　　　ﾟ ＊  ¸ .　    ✦˖　      ° :   ﹢ 　   ˖ . •　 .　﹢˖✦
+
+
+[16-Feb-21 01:39 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+**◇─◇──◇────◇ Flèches ◇─────◇──◇─◇**
+
+*(Petite info : Les archers commencent avec 150 flèches basiques)*
+
+୨**__✷ Silex : ✷__**୧
+
+- Pour obtenir des silex le vendeur peut :
+
+• Les golems permettent aussi d’en avoir ( 1 golem = 10 silex ) . L'action de récupération du silex doit être détaillée et peut être faite que par le vendeur. Le métier de graveleur permet de faire ça, le niveau par level est le même qu'un level classique. *(Un farm de silex en temps que graveleur dure 20 min et permet de récupérer 80 silex(+5 silex dès que le métier level up). Un farm de 20 min = 10 exp )*
+
+• La deuxième solution est d'aller à la montagne et casser du gravier.
+
+୨**__✷ Branche : ✷__**୧
+
+- Pour obtenir des branches le vendeur peut :
+
+ • Soit aller à la rivière , aux plaines , dans les forêts des autres palier etc…*(Tous les endroits où il est possible de récupérer du bois)*. Le métier de bûcheron permet de faire ça, le niveau par level est le même qu'un level classique. *( Un farm dure 20 minutes et doit être détaillé , les vendeurs obtiennent 80 branches(+5 dès que le métier level up). Un farm de 20 min = 10 exp).* Le but est de soit récupérer à la main au sol les branches à terre ou alors couper des arbres.
+
+• La deuxième solution est de tuer des esprits de la forêt et donc cela permet de récupérer 20 branches par esprits morts .
+
+୨**__✷ Plume : ✷__**୧
+
+- Pour obtenir des Plumes le vendeur peut :
+
+• Se récupère dans les nids d'oiseaux qui sont percher dans les arbres. Le métier du plumassier permet de faire ça, le niveau par level est le même qu'un level classique. *( Un farm dure 20 minutes et doit être détaillé , les vendeurs obtiennent 80 plumes(+5 dès que le métier level up). Un farm de 20 min = 10 exp).* 
+
+• La deuxième solution est de tuer des harpies , récupérer leurs plumes *(1 plume d’harpie vaut 50 plumes basiques )*
+
+
+[03-Mar-21 02:03 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+୨**__✷ Fabrication : ✷__**୧
+
+`• 1 Silex
+• 1 Branche 
+• 1 Plume `
+
+*Cette fabrication donne 5 flèches basiques (peuvent être tirés un maximum de 3 fois )*
+
+* 　.     　﹢　˖    　✦      ¸ .　﹢　 ° 　¸.    ° ˖ ･ ·̩　　 ｡　☆　　　ﾟ ＊  ¸ .　    ✦˖　      ° :   ﹢ 　   ˖ . •　 .　﹢˖✦
+
+
+[24-Mar-21 03:00 AM] ᭨ི👑 𝑊𝜎𝜕𝛼𝑚 龍#1999
+
+{Attachments}
+https://cdn.discordapp.com/attachments/727985833248030813/824100389565497354/bandicam_2020-12-27_01-20-37-492_1-1.gif
+
+
+==============================================================
+Exported 5 message(s)
+==============================================================
